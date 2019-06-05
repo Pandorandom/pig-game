@@ -91,7 +91,7 @@ function init() {
 	//  set global score display text content to 0 for both players
 	document.getElementById('score-1').textContent = '0';
 	//  set current score display text content to 0 for both players
-	document.getElementById('current-1').textContent = '0';
+	document.getElementById('current-0').textContent = '0';
 	//  set current score display text content to 0 for both players
 	document.getElementById('current-1').textContent = '0';
 	// set player 1 name
