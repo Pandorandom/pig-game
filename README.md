@@ -10,4 +10,4 @@ pig dice rolling game from Udemy Complete Javascript Developer Course
 - The first player to reach 20 points on GLOBAL score wins the game.
 
 ## Play the game!
-visit https://pandorandom.github.io/pig-game/ to play!
+visit https://cryofracture.github.io/pig-game/ to play!
